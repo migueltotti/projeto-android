@@ -4,8 +4,7 @@
 
 @font-face {
     font-family: droids;
-    src: url('../ex010/fontes/idroid.otf') format("opentype");
-    font-weight: normal
+    src: url(../projeto-android/fontes/idroid.otf) format("opentype");
 }
 
 :root {
@@ -42,7 +41,7 @@ header {
 header > h1 {
     font-size: 3em;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 10px;
     text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.541);
 }
 
